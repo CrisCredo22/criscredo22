@@ -1,6 +1,6 @@
 ### Seja bem vindo(a)!
 
-👤 Cris da Silva Ribeiro 36 anos, desenvolvedor em formação.
+👤 Cris da Silva Ribeiro, 36 anos, desenvolvedor em formação.
 
 🎓 Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.
 
